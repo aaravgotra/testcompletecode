@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Version="1">
+	<Providers>
+		<A609CA20xCE0Bx4080x93FCx121361DAEEF9 version="1">
+			<groups>
+				<Group0 Caption="EnvironmentList1" Key="350A3724xDEA9x4189x80E6x8B4C987F1B79" Enabled="True">
+					<Hosts>
+						<Host0 Device="Windows 10" Browser="Google Chrome 50 (64-bit)" Resolution="800x480" DeviceApi="Win10" BrowserApi="Chrome50x64" ResolutionApi="800x480" />
+						<Host1 Device="Windows 10" Browser="Microsoft Edge" Resolution="800x600" DeviceApi="Win10" BrowserApi="Edge20" ResolutionApi="800x600" />
+						<Host2 Device="Windows 7" Browser="Google Chrome 50" Resolution="800x600" DeviceApi="Win7-C1" BrowserApi="Chrome50" ResolutionApi="800x600" />
+					</Hosts>
+					<Tests>
+						<Test0 Name="launch" Project="Web_Aarav" TestName="Script|Unit1|launch" Enabled="True" Key="CD5E60E3x6286x46BDxBA52x4EDAD4989050" />
+					</Tests>
+				</Group0>
+				<Group1 Caption="EnvironmentList2" Key="3374FAC1xC87Cx42C3x85A0x3EAFB423C331" Enabled="True">
+					<Hosts>
+						<Host0 Device="Windows 8" Browser="Internet Explorer 10" Resolution="800x600" DeviceApi="Win8" BrowserApi="IE10" ResolutionApi="800x600" />
+					</Hosts>
+					<Tests>
+						<Test0 Name="launch" Project="Web_Aarav" TestName="Script|Unit1|launch" Enabled="True" Key="B72EE27Ex7241x46C9x819Dx24075C8B62D4" />
+					</Tests>
+				</Group1>
+				<Group2 Caption="EnvironmentList3" Key="0DDDCFD5xCA10x4E53x9383xA38F90D72FC5" Enabled="True">
+					<Hosts />
+					<Tests />
+				</Group2>
+			</groups>
+		</A609CA20xCE0Bx4080x93FCx121361DAEEF9>
+	</Providers>
+</Root>
