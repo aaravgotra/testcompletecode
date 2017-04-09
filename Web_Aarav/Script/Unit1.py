@@ -1,3 +1,3 @@
 ﻿def launch():
- Browsers.Item[btChrome].Run("http://support.smartbear.com/samples/testcomplete12/weborders/")
+ Browsers.Item[btFirefox].Run("http://support.smartbear.com/samples/testcomplete12/weborders/")
   
